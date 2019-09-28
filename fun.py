@@ -20,7 +20,7 @@ def printReceipt():
 createReceipt=open("receipt.txt","w")
 print("date||credit||debit||balance")
 
-
+ 
 
 
 
